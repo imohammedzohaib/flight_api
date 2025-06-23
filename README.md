@@ -59,7 +59,9 @@ flight_api/
 │   ├── services/
 │   ├── tasks/
 │   └── main.py
-├── tests/
+├── tests//
+│   └── test_routes.py
 ├── celery_worker.py
+├── pytest.ini
 ├── requirements.txt
 └── README.md
