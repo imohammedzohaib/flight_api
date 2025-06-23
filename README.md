@@ -42,7 +42,7 @@ uvicorn app.main:app --reload
 GET /flight-info?airline_code=AA&flight_number=100&departure_date=2025-06-25
 
 🧪 Run Tests:
-```bash
+bash
 pytest
 
 
