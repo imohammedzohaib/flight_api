@@ -48,7 +48,6 @@ pytest
 
 📂 Folder Structure
 
-```bash
 flight_api/
 ├── app/
 │   ├── api/v1/
